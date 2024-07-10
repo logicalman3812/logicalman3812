@@ -3,9 +3,8 @@
 <h1 align="center">Hi, I'm jakee</h1>
 <p align="left">
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logicalman3812&show_icons=true&locale=en&layout=compact" alt="logicalman3812" /></p>
 <samp>
 doing a lil bit of everything <br>
-<a href="https://nam.is-a.dev">www</a>  •  <a href="https://nam.is-a.dev/blog">blog</a>   •  <a href="https://discord.com/users/715825910611443722">discord</a>  •  <a href="https://github.com/chadcat7/crystal">dotfiles</a> 
+<a href="https://t.me/unixshit">blog</a>   •   <a href="https://github.com/logicalman3812/hyprdots">dotfiles</a> 
 </samp>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=logicalman3812&show_icons=true&locale=en&layout=compact" alt="logicalman3812" /></p>
