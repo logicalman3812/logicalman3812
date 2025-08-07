@@ -1,5 +1,4 @@
-![gif straight up ripped from pinterest](https://i.pinimg.com/originals/84/9c/9b/849c9bd9d2a677345122f5b7b7664b8f.gif)
-
+<!-- ![gif straight up ripped from pinterest](https://i.pinimg.com/originals/84/9c/9b/849c9bd9d2a677345122f5b7b7664b8f.gif) -->
 <div style="text-align: center;">
   <samp>
     doing a lil bit of everything <br>
